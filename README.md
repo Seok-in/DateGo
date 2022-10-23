@@ -119,38 +119,38 @@ f84f8e48e435   jenkins/jenkins:latest   "/usr/bin/tini -- /u…"   42 hours ago 
 ## 시연 시나리오
 
 ### 메인페이지
-<img src="./exec/assets/main.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417350-acc908a6-0100-4aee-993a-2122ed2ec2de.jpg" width="200" height="400"/>
 
 ### 동 선택
-<img src="./exec/assets/dong_choose.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417349-365b8cf8-d183-4751-a86b-b6adc45ecaac.jpg" width="200" height="400"/>
 
 ### 카테고리 선택
-<img src="./exec/assets/category.jpg" width="200" height="400"/>
-<img src="./exec/assets/order.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417343-801262be-e66f-49d9-a30b-7714a2b5f7ff.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417354-517651d7-270a-4ffe-87c7-289ae31bcf80.jpg" width="200" height="400"/>
 
 
 ### 코스 선택, 변경, 상세보기
-<img src="./exec/assets/course.jpg" width="200" height="400"/>
-<img src="./exec/assets/spot_change.jpg" width="200" height="400"/>
-<img src="./exec/assets/spot_detail.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417345-10666409-89d4-4834-99a8-038007b5aa18.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417357-90c39786-687c-46ee-9a07-a08faa8e4be5.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417360-ee4be312-00f0-4c09-a9df-5d16e7ce1ec2.jpg" width="200" height="400"/>
 
 
 ### 코스 시작
-<img src="./exec/assets/coursing.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417348-3af946cb-5c2a-4e9e-a1b2-cdcb1f271a34.jpg" width="200" height="400"/>
 
 
 ### ar 미션
-<img src="./exec/assets/mission_ar.jpg" width="200" height="400"/>
-<img src="./exec/assets/mission_clear.jpg" width="200" height="400"/>
-<img src="./exec/assets/course_clear.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417351-a9415d69-5e09-42e0-af6b-2ad20f571d39.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417352-7361902f-d0e7-4a74-9ab0-d99b71e21a86.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417346-1da1db51-8c31-4ff8-b264-6a1f0d2237f1.jpg" width="200" height="400"/>
 
 
 ### 코스 종료
-<img src="./exec/assets/course_end.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417347-b94887f3-1b03-4a83-b24e-ce9bcece0b8d.jpg" width="200" height="400"/>
 
 
 ### 리뷰 작성
-<img src="./exec/assets/review.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417356-5a0d14a2-5e41-46aa-a226-2736829a2709.jpg" width="200" height="400"/>
 
 ### 끝
-<img src="./exec/assets/thanks.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66546079/197417362-79fc6394-1ef8-4f67-9771-f17e1228e13a.jpg" width="200" height="400"/>
