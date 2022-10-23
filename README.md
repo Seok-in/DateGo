@@ -119,38 +119,38 @@ f84f8e48e435   jenkins/jenkins:latest   "/usr/bin/tini -- /u…"   42 hours ago 
 ## 시연 시나리오
 
 ### 메인페이지
-<img src="./assets/main.jpg" width="200" height="400"/>
+<img src="./exec/assets/main.jpg" width="200" height="400"/>
 
 ### 동 선택
-<img src="./assets/dong_choose.jpg" width="200" height="400"/>
+<img src="./exec/assets/dong_choose.jpg" width="200" height="400"/>
 
 ### 카테고리 선택
-<img src="./assets/category.jpg" width="200" height="400"/>
-<img src="./assets/order.jpg" width="200" height="400"/>
+<img src="./exec/assets/category.jpg" width="200" height="400"/>
+<img src="./exec/assets/order.jpg" width="200" height="400"/>
 
 
 ### 코스 선택, 변경, 상세보기
-<img src="./assets/course.jpg" width="200" height="400"/>
-<img src="./assets/spot_change.jpg" width="200" height="400"/>
-<img src="./assets/spot_detail.jpg" width="200" height="400"/>
+<img src="./exec/assets/course.jpg" width="200" height="400"/>
+<img src="./exec/assets/spot_change.jpg" width="200" height="400"/>
+<img src="./exec/assets/spot_detail.jpg" width="200" height="400"/>
 
 
 ### 코스 시작
-<img src="./assets/coursing.jpg" width="200" height="400"/>
+<img src="./exec/assets/coursing.jpg" width="200" height="400"/>
 
 
 ### ar 미션
-<img src="./assets/mission_ar.jpg" width="200" height="400"/>
-<img src="./assets/mission_clear.jpg" width="200" height="400"/>
-<img src="./assets/course_clear.jpg" width="200" height="400"/>
+<img src="./exec/assets/mission_ar.jpg" width="200" height="400"/>
+<img src="./exec/assets/mission_clear.jpg" width="200" height="400"/>
+<img src="./exec/assets/course_clear.jpg" width="200" height="400"/>
 
 
 ### 코스 종료
-<img src="./assets/course_end.jpg" width="200" height="400"/>
+<img src="./exec/assets/course_end.jpg" width="200" height="400"/>
 
 
 ### 리뷰 작성
-<img src="./assets/review.jpg" width="200" height="400"/>
+<img src="./exec/assets/review.jpg" width="200" height="400"/>
 
 ### 끝
-<img src="./assets/thanks.jpg" width="200" height="400"/>
+<img src="./exec/assets/thanks.jpg" width="200" height="400"/>
